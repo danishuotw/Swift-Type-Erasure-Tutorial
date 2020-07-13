@@ -1,4 +1,4 @@
-# Swift-Type-Erasure-Tutorial
+# Swift Type Erasure Tutorial
 
 
 ```swift
